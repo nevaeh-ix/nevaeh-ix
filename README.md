@@ -1,24 +1,50 @@
 # Hey, I'm Nevaeh! 👋
 
+![Data Engineering & Analytics Services | Scalable, Secure & Cloud-Ready](https://images.openai.com/static-rsc-4/Do3c3jkllHQ9Jv6shsXQgVT_e1EeH7fKrJZ4AFqJHJNyDJUwNZ1trMXtJwGmInhLB4zVTZp4MdQDW701gyxJcm6PG6qj-El_Egngx-hxyADKo-ciL4GGsIiWJcjG6imW6RauMwlRtIHXp2-oyHYElh3HkwzOS4Am_pnPAboeYY4?purpose=inline)
+
+
 ### Software Engineer | Backend • Cloud • Full-Stack
 
-I'm a Computer Science student at North Carolina A&T State University, graduating in May 2027.
+I'm a Computer Science student at North Carolina A&T
+State University, graduating in May 2027.
 
-I've interned at Amazon and Meta, working on backend systems, cloud infrastructure, and performance improvements. I enjoy figuring out how things work behind the scenes and building tools that make people's lives easier.
+I really like figuring out how things work, especially what happens behind the scenes.
+
+I've worked on backend infrastructure, cloud systems, and performance improvements. I enjoy digging into problems, understanding what's causing them, and building something that makes life easier for the people using it.
 
 ## 🛠 Tech Stack
 
-**Languages:** Python, Java, C++, TypeScript, SQL  
-**Backend & Cloud:** AWS, Node.js, Docker, Flask  
-**Frontend:** React, Next.js, HTML/CSS  
+**Languages:** Python, Java, C++, TypeScript, SQL
+
+**Backend & Cloud:** AWS, Node.js, Docker, Flask
+
+**Frontend:** React, Next.js, HTML/CSS
+
 **Databases:** PostgreSQL, MongoDB, DynamoDB
 
 ## 🚀 Featured Projects
 
-**🎓 [Aggie Course Guide](https://github.com/nevaeh-ix/aggie-course-guide)** — Course recommendations using semantic search and prerequisite checks. [Try it](https://nevaeh-ix.github.io/aggie-course-guide/)
+### 🎓 Aggie Course Guide
+An AI-powered course recommendation system that
+uses semantic search and prerequisite validation.
 
-**🌱 [AgricultureBoard](https://github.com/nevaeh-ix/AgricultureBoard)** — Planting planner with live weather and crop recommendations.
+[Try It Live](https://nevaeh-ix.github.io/aggie-course-guide/) · [View Code](https://github.com/nevaeh-ix/aggie-course-guide)
 
-**🎮 [Journey Home](https://github.com/nevaeh-ix/journey-home)** — Choice-driven game with resource management and multiple endings. [Play](https://nevaeh-ix.github.io/journey-home/)
+### 🎮 Journey Home
+A browser-based resource management game.
 
-I'm especially interested in backend engineering, cloud infrastructure, and building reliable software.
+[Play the Game](https://nevaeh-ix.github.io/journey-home/) · [View Code](https://github.com/nevaeh-ix/journey-home)
+
+### 🌱 AgricultureBoard
+A crop-planning web application with weather information and planting recommendations for crops like corn, tomatoes, and potatoes.
+
+[View Code](https://github.com/nevaeh-ix/AgricultureBoard)
+
+
+## 🌟 What I'm Interested In
+
+- Backend engineering and distributed systems
+- Cloud infrastructure and reliability
+- Full-stack product development
+- AI-powered applications
+
