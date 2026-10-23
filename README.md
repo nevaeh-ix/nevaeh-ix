@@ -30,15 +30,16 @@ uses semantic search and prerequisite validation.
 
 [Try It Live](https://nevaeh-ix.github.io/aggie-course-guide/) · [View Code](https://github.com/nevaeh-ix/aggie-course-guide)
 
+### 🎮 Journey Home
+A browser-based resource management game.
+
+[Play the Game](https://nevaeh-ix.github.io/journey-home/) · [View Code](https://github.com/nevaeh-ix/journey-home)
+
 ### 🌱 AgricultureBoard
 An agricultural management web application.
 
 [View Code](https://github.com/nevaeh-ix/AgricultureBoard)
 
-### 🎮 Journey Home
-A browser-based resource management game.
-
-[Play the Game](https://nevaeh-ix.github.io/journey-home/) · [View Code](https://github.com/nevaeh-ix/journey-home)
 
 ## 🌟 What I'm Interested In
 
