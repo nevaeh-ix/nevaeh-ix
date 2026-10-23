@@ -8,9 +8,7 @@
 I'm a Computer Science student at North Carolina A&T
 State University, graduating in May 2027.
 
-I've worked on backend infrastructure, cloud systems, and performance improvements. 
-
-I really like figuring out how things work, especially what happens behind the scenes.
+I've worked on backend infrastructure, cloud systems, and performance improvements. I really like figuring out how things work, especially what happens behind the scenes.
 
 ## 🛠 Tech Stack
 
