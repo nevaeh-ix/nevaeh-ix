@@ -23,17 +23,16 @@ I've worked on backend infrastructure, cloud systems, and performance improvemen
 ## 🚀 Featured Projects
 
 ### 🎓 Aggie Course Guide
-An AI-powered course recommendation system that
-uses semantic search and prerequisite validation.
+A course discovery tool for NC A&T engineering students that matches interests to 315 courses across 13 majors and tracks using MiniLM semantic search, with prerequisite checks to help plan schedules.
 
 **Tech:** JavaScript · Python · MiniLM · Transformers.js
 
 [Try It Live](https://nevaeh-ix.github.io/aggie-course-guide/) · [View Code](https://github.com/nevaeh-ix/aggie-course-guide)
 
 ### 🎮 Journey Home
-A browser-based resource management game.
+An interactive, choice-driven browser game where players manage limited resources, navigate three changing regions, and make decisions that lead to different endings.
 
-**Tech:** JavaScript · Tailwind CSS
+**Tech:** JavaScript · HTML · CSS
 
 [Play the Game](https://nevaeh-ix.github.io/journey-home/) · [View Code](https://github.com/nevaeh-ix/journey-home)
 
