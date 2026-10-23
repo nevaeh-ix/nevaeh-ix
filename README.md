@@ -38,9 +38,9 @@ A browser-based resource management game.
 [Play the Game](https://nevaeh-ix.github.io/journey-home/) · [View Code](https://github.com/nevaeh-ix/journey-home)
 
 ### 🌱 AgricultureBoard
-A crop-planning web application with weather information and planting recommendations for crops like corn, tomatoes, and potatoes.
+A full-stack crop-planning application with live weather forecasts, planting recommendations, and saved garden records. Built a FastAPI backend with PostgreSQL persistence and cached weather requests; the live demo currently runs with browser storage.
 
-**Tech:** JavaScript · HTML/CSS · Open-Meteo API
+**Tech:** Python · FastAPI · PostgreSQL · SQLAlchemy · JavaScript · Docker · Open-Meteo API
 
 [Try It Live](https://nevaeh-ix.github.io/AgricultureBoard/) · [View Code](https://github.com/nevaeh-ix/AgricultureBoard)
 
