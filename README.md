@@ -5,9 +5,12 @@
 
 ### Software Engineer | Backend • Cloud • Full-Stack
 
-I'm a senior studying Computer Science at North Carolina A&T State University, graduating in May 2027. I like figuring out how things work, especially what happens behind the scenes.
+I'm a Computer Science student at North Carolina A&T
+State University, graduating in May 2027.
 
-I've interned at Amazon and Meta, working on backend infrastructure, cloud systems, and performance improvements. I enjoy digging into problems, understanding what's causing them, and building something that makes life easier for the people using it.
+I really like figuring out how things work, especially what happens behind the scenes.
+
+I've worked on backend infrastructure, cloud systems, and performance improvements. I enjoy digging into problems, understanding what's causing them, and building something that makes life easier for the people using it.
 
 ## 🛠 Tech Stack
 
