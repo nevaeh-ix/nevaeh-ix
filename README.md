@@ -1,5 +1,8 @@
 # Hey, I'm Nevaeh! 👋
 
+![Data Engineering & Analytics Services | Scalable, Secure & Cloud-Ready](https://images.openai.com/static-rsc-4/Do3c3jkllHQ9Jv6shsXQgVT_e1EeH7fKrJZ4AFqJHJNyDJUwNZ1trMXtJwGmInhLB4zVTZp4MdQDW701gyxJcm6PG6qj-El_Egngx-hxyADKo-ciL4GGsIiWJcjG6imW6RauMwlRtIHXp2-oyHYElh3HkwzOS4Am_pnPAboeYY4?purpose=inline)
+
+
 ### Software Engineer | Backend • Cloud • Full-Stack
 
 I'm a Computer Science student at North Carolina A&T
@@ -47,12 +50,3 @@ A browser-based resource management game.
 - Full-stack product development
 - AI-powered applications
 
-![Data Engineering & Analytics Services | Scalable, Secure & Cloud-Ready](https://images.openai.com/static-rsc-4/Do3c3jkllHQ9Jv6shsXQgVT_e1EeH7fKrJZ4AFqJHJNyDJUwNZ1trMXtJwGmInhLB4zVTZp4MdQDW701gyxJcm6PG6qj-El_Egngx-hxyADKo-ciL4GGsIiWJcjG6imW6RauMwlRtIHXp2-oyHYElh3HkwzOS4Am_pnPAboeYY4?purpose=inline)
-
-## Nevaeh George
-
-Software Engineer | Backend • Cloud • Full-Stack
-
-Computer Science @ NC A&T | Class of 2027
-
-### Hey, I'm Nevaeh! 👋
