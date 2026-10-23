@@ -5,15 +5,9 @@
 
 ### Software Engineer | Backend • Cloud • Full-Stack
 
-I'm a Computer Science student at North Carolina A&T
-State University, graduating in May 2027.
+I'm a senior studying Computer Science at North Carolina A&T State University, graduating in May 2027. I like figuring out how things work, especially what happens behind the scenes.
 
-I've interned at Amazon and Meta, where I worked on
-backend infrastructure, cloud systems, and performance
-optimization.
-
-I enjoy understanding how systems work end to end
-and building solutions that make a real difference.
+I've interned at Amazon and Meta, working on backend infrastructure, cloud systems, and performance improvements. I enjoy digging into problems, understanding what's causing them, and building something that makes life easier for the people using it.
 
 ## 🛠 Tech Stack
 
@@ -31,17 +25,17 @@ and building solutions that make a real difference.
 An AI-powered course recommendation system that
 uses semantic search and prerequisite validation.
 
-[View Project](https://github.com/nevaeh-ix/aggie-course-guide)
+[Try It Live](https://nevaeh-ix.github.io/aggie-course-guide/) · [View Code](https://github.com/nevaeh-ix/aggie-course-guide)
 
 ### 🌱 AgricultureBoard
 An agricultural management web application.
 
-[View Project](https://github.com/nevaeh-ix/AgricultureBoard)
+[View Code](https://github.com/nevaeh-ix/AgricultureBoard)
 
 ### 🎮 Journey Home
 A browser-based resource management game.
 
-[View Project](https://github.com/nevaeh-ix/journey-home)
+[Play the Game](https://nevaeh-ix.github.io/journey-home/) · [View Code](https://github.com/nevaeh-ix/journey-home)
 
 ## 🌟 What I'm Interested In
 
