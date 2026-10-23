@@ -28,17 +28,23 @@ I've worked on backend infrastructure, cloud systems, and performance improvemen
 An AI-powered course recommendation system that
 uses semantic search and prerequisite validation.
 
+**Tech:** JavaScript · Python · MiniLM · Transformers.js
+
 [Try It Live](https://nevaeh-ix.github.io/aggie-course-guide/) · [View Code](https://github.com/nevaeh-ix/aggie-course-guide)
 
 ### 🎮 Journey Home
 A browser-based resource management game.
+
+**Tech:** JavaScript · Tailwind CSS
 
 [Play the Game](https://nevaeh-ix.github.io/journey-home/) · [View Code](https://github.com/nevaeh-ix/journey-home)
 
 ### 🌱 AgricultureBoard
 A crop-planning web application with weather information and planting recommendations for crops like corn, tomatoes, and potatoes.
 
-[View Code](https://github.com/nevaeh-ix/AgricultureBoard)
+**Tech:** JavaScript · HTML/CSS · Open-Meteo API
+
+[Try It Live](https://nevaeh-ix.github.io/AgricultureBoard/) · [View Code](https://github.com/nevaeh-ix/AgricultureBoard)
 
 
 ## 🌟 What I'm Interested In
